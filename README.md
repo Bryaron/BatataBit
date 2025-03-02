@@ -7,7 +7,7 @@ Responsive Design Project
 - Responsive Design
 - Media Queries
 - Mobile First
-![]("https://bryaron.github.io/BatataBit/assets/img/logo.svg")
+![](https://bryaron.github.io/BatataBit/assets/img/logo.svg)
 ## Author
 - GitHub - [Bryaron](https://github.com/Bryaron)
 - LinkedIn - [@bryaron](https://www.linkedin.com/in/bryan-aroni-saavedra/)
